@@ -1,0 +1,22 @@
+{
+  "name": "wombot",
+  "version": "1.0.0",
+  "description": "Practice Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "shiffman",
+    "coding",
+    "train"
+  ],
+  "author": "AG",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1"
+  }
+}
